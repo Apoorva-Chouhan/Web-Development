@@ -1,16 +1,19 @@
 body {
     font-size: 16px;
-    font-family: 'Lora', serif;
+    font-family: arial;
   
 }
 #header-nav {
-    background-color: #a0d2eb;
+    background-color: #d3d3d3;
+}
+.navbar-header{
+	color: solid black;
 }
 /*styling the nav list*/
 #nav-list {
     margin-top: 0px;
     margin-bottom: 0px;
-    background-color: #e5eaf5;
+    background-color: #d3d3d3;
 }
 
 #nav-list a {
